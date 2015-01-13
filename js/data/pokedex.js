@@ -161,6 +161,20 @@ var POKEDEX_RBY = {
     },
     "w": 2.9
   },
+  "Cawmodore": {
+    "t1": "Steel",
+    "t2": "Flying",
+    "bs": {
+      "hp": 50,
+      "at": 92,
+      "df": 130,
+      "sa": 65,
+      "sd": 75,
+      "sp": 118,
+      "sl": 75
+    },
+    "w": 37
+  },
   "Chansey": {
     "t1": "Normal",
     "bs": {
